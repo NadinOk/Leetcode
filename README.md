@@ -1,1 +1,27 @@
-# Leetcode
+# leetcode 365
+[:white_check_mark:]14.07.2022 - Roman to Integer
+- [x] 03.02.2023 -  Longest Common Prefix
+- [x] 07.02.2023 -  Valid Parentheses
+- [x] 09.02.2023 - Search Insert Position
+- [x] 10.02.2023 - Length of Last Word
+- [ ] 11.02.2023 - 
+- [x] 12.02.2023 - Remove Duplicates from Sorted Array
+- [x] 12.02.2023 - Remove Element
+- [x] 13.02.2023 - Search Insert Position
+- [x] 13.02.2023 - Palindrome Number
+- [x] 13.02.2023 -  Length of Last Word
+- [ ] 14.02.2023
+- [ ] 15.02.2023
+- [ ] 16.02.2023
+- [ ] 17.02.2023
+- [ ] 18.02.2023
+- [ ] 19.02.2023
+- [ ] 20.02.2023
+- [ ] 21.02.2023
+- [ ] 22.02.2023
+- [ ] 23.02.2023
+- [ ] 24.02.2023
+- [ ] 25.02.2023
+- [ ] 26.02.2023
+- [ ] 27.02.2023
+- [ ] 28.02.2023
